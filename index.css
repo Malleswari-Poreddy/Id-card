@@ -1,0 +1,64 @@
+.mycollege {
+  font-size: 0.9rem;
+  padding-right: 0;
+  margin-top: 0.4em;
+}
+.birla {
+  margin-top: 0.5rem;
+}
+.Details {
+  padding: 0px;
+  word-spacing: 5px;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  border-bottom: 5px solid blueviolet;
+  border-top: 5px solid blueviolet;
+}
+.details {
+  list-style: none;
+  font-size: 0.95em;
+  margin-left: 0;
+  padding-left: opx;
+}
+.clg {
+  font-size: 1rem;
+}
+
+.image {
+  padding-right: 0px;
+}
+.code {
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+.student {
+  text-align: center;
+}
+@media screen and (min-width: 720px) {
+  .details {
+    font-size: 2.4em;
+  }
+  .mycollege {
+    font-size: 2.1em;
+  }
+  .hyd {
+    font-size: 3em;
+  }
+  .clg {
+    font-size: 0.6em;
+  }
+}
+@media screen and (min-width: 960px) {
+  .details {
+    font-size: 4.4em;
+  }
+  .mycollege {
+    font-size: 3.3em;
+  }
+  .hyd {
+    font-size: 4.3em;
+  }
+  .clg {
+    font-size: 0.8;
+  }
+}
